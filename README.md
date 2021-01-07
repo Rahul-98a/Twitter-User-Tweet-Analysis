@@ -1,4 +1,4 @@
-# Twitter User Tweet Analysis
+# Twitter User Data Analysis
 Scraping tweets for a specified twitter user, and performing some analysis on those tweets.
 Tweets were scraped via the python library GetOldTweets3 (https://github.com/Mottl/GetOldTweets3).
 
@@ -20,7 +20,3 @@ You may need to install the following packages to run the notebook.
 
 ### Steps to Run
 To run the data analysis on some user, simply set the username and run. Currently, the notebook is running against @realDonaldTrump.
-
-### References
-- https://towardsdatascience.com/how-to-scrape-tweets-from-twitter-59287e20f0f1 
-- https://www.datacamp.com/community/tutorials/wordcloud-python
